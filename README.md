@@ -7,9 +7,9 @@ In this lab, we will create a Spring Boot application and we will utilize some c
 Learner Objectives:
 Perform an step-by-step exercise to build a basic application using Spring Boot, developing an application using the spring initializr.
 
-================================================
-Restart the application and type the following URLs in your browser to access inboxpage.html 
-http://localhost:8080/home/
-http://localhost:8080/home/login
-http://localhost:8080/home/index
+================================================<br>
+Restart the application and type the following URLs in your browser to access pages <br>
+http://localhost:8080/home/    <br>
+http://localhost:8080/home/login   <br>
+http://localhost:8080/home/index    
 
