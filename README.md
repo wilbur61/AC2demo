@@ -2,3 +2,5 @@
 AC2demo
 
 # GLAB - 309.5.1 - SP3 - How to use @Controller, @RequestMapping and @GetMapping
+
+# see master branch for code and instructions
